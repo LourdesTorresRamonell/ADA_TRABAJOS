@@ -19,7 +19,6 @@ for(i=0;i<5;i++){
     if(nombre==nombres[i]){
         mensaje=mensaje+1        
     }
-    console.log(mensaje)
 }
 
 if (mensaje>0){

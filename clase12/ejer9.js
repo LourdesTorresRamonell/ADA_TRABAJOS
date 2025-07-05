@@ -90,7 +90,9 @@ for (let fila = 0; fila < 4; fila++) {
 }
 
 let opcion;
-opcion=Number(prompt(`Ingrese la opcion que desea(numero):
+
+do{
+    opcion=Number(prompt(`Ingrese la opcion que desea(numero):
     1. Gasto total de una semana
     2. Gasto total de un día 
     3. Gastos total del mes
@@ -98,15 +100,6 @@ opcion=Number(prompt(`Ingrese la opcion que desea(numero):
     5. Día con mayor gasto
     0. Salir  `))
 
-do{
-    /*opcion=Number(prompt(`Ingrese la opcion que desea(numero):
-    1. Gasto total de una semana
-    2. Gasto total de un día 
-    3. Gastos total del mes
-    4. Semana con mayor gasto
-    5. Día con mayor gasto
-    0. Salir  `))*/
-        console.log("hola");
     switch(opcion){
         case 1:
             let semana=Number(prompt(`Ingrese el numero de la semana: `));
@@ -133,12 +126,5 @@ do{
             console.log(`Error: se debe ingresar una de las opciones.`);
         break;
     }
-    opcion=Number(prompt(`Ingrese la opcion que desea(numero):
-    1. Gasto total de una semana
-    2. Gasto total de un día 
-    3. Gastos total del mes
-    4. Semana con mayor gasto
-    5. Día con mayor gasto
-    0. Salir  `))
 }while(opcion!==0);
 
