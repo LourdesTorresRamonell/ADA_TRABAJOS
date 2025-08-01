@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "producto": "Esmalte tradicional",
+    "precio": "1400"
+  },
+  {
+    "id": 3,
+    "producto": "Diamont paint",
+    "precio": "600"
+  }
+]

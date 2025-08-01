@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "desarrollo": "Practicar node.js",
+    "estado": "Pendiente"
+  },
+  {
+    "id": 2,
+    "desarrollo": "Lavar platos",
+    "estado": "Pendiente"
+  },
+  {
+    "id": 3,
+    "desarrollo": "Sacar a pasear al perro",
+    "estado": "Pendiente"
+  }
+]

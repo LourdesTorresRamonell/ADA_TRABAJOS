@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fideos",
+    "existencias": 20
+  },
+  {
+    "id": 2,
+    "nombre": "Arroz",
+    "existencias": 50
+  },
+  {
+    "id": 3,
+    "nombre": "Lenguitas",
+    "existencias": 8
+  },
+  {
+    "id": 4,
+    "nombre": "Pitusas",
+    "existencias": 50
+  }
+]
