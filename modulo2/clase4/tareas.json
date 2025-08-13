@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "Programacion",
+    "descripcion": "Terminar los ejercicios de clase 4",
+    "estado": "pendiente"
+  },
+  {
+    "nombre": "Logo",
+    "descripcion": "Relizar las modificaciones del logo",
+    "estado": "pendiente"
+  },
+  {
+    "nombre": "Manicuria",
+    "descripcion": "Practicar trasos rectos precisos",
+    "estado": "completada"
+  },
+  {
+    "nombre": "Programacion",
+    "descripcion": "Terminar los ejercicios de clase 4",
+    "estado": "pendiente"
+  },
+  {
+    "nombre": "Logo",
+    "descripcion": "Relizar las modificaciones del logo",
+    "estado": "pendiente"
+  },
+  {
+    "nombre": "Manicuria",
+    "descripcion": "Practicar trasos rectos precisos",
+    "estado": "pendiente"
+  },
+  {
+    "nombre": "Programacion",
+    "descripcion": "Terminar los ejercicios de clase 4",
+    "estado": "pendiente"
+  },
+  {
+    "nombre": "Logo",
+    "descripcion": "Relizar las modificaciones del logo",
+    "estado": "pendiente"
+  },
+  {
+    "nombre": "Manicuria",
+    "descripcion": "Practicar trasos rectos precisos",
+    "estado": "pendiente"
+  }
+]
